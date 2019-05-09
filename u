@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https:", A Dama do Espelho: O Ritual das Trevas (Dublado) - 2015 - 1080p
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/ADMDESPLHORTLDS.mp4
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo= ", A Morte Te Dá Parabéns (Dublado) - 2017 - 1080p
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/AMRTDPRBNS.mp4
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo= ",Pânico na Cabana (Dublado) - 2017 - 1080p
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/PANCNCABN.mp4
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo= ", Pumpkinhead 4: Maldição Sangrenta (Dublado) - 2007 - 480p
+http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/PUMPKHD4.mp4
+
