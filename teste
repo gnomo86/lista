@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/05/maxresdefault.jpg?fit=1280%2C720&ssl=1", Uma Aventura Perigosa
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/05/maxresdefault.jpg?fit=1280%2C720&ssl=1", Uma Aventura Perigosa
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/UMAVNTRPRGSA.mp4
-#EXTINF:0 type="stream" channelId="-1" audio-track="https://media.fstatic.com/B3FgpM4vCt-fhjVq8g5n41eVSPA=/fit-in/210x312/smart/media/movies/covers/2018/07/Tales-from-the-Hood-2-movie-poster.jpg", Contos macabros 2
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://media.fstatic.com/B3FgpM4vCt-fhjVq8g5n41eVSPA=/fit-in/210x312/smart/media/movies/covers/2018/07/Tales-from-the-Hood-2-movie-poster.jpg", Contos macabros 2
 http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer2/ondemand/CNTSMCBRS2.mp4" type="video/mp4
